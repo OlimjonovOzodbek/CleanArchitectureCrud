@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajotCRUD.API", "NajotCRUD.API\NajotCRUD.API.csproj", "{569C72E7-F32C-4CE0-BAE4-DCDE68A7EFC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajotCRUD.Application", "NajotCRUD.Application\NajotCRUD.Application.csproj", "{84CD49EF-655F-44D9-AE0E-8CCC6433CD85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajotCRUD.Domain", "NajotCRUD.Domain\NajotCRUD.Domain.csproj", "{302D3AFB-0CD1-4FA5-8835-7AEF20158E24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajotCRUD.Infrastruct", "NajotCRUD.Infrastruct\NajotCRUD.Infrastruct.csproj", "{146B3519-FD81-446C-A87B-D89C85877C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569C72E7-F32C-4CE0-BAE4-DCDE68A7EFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569C72E7-F32C-4CE0-BAE4-DCDE68A7EFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569C72E7-F32C-4CE0-BAE4-DCDE68A7EFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569C72E7-F32C-4CE0-BAE4-DCDE68A7EFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CD49EF-655F-44D9-AE0E-8CCC6433CD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CD49EF-655F-44D9-AE0E-8CCC6433CD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CD49EF-655F-44D9-AE0E-8CCC6433CD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CD49EF-655F-44D9-AE0E-8CCC6433CD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302D3AFB-0CD1-4FA5-8835-7AEF20158E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302D3AFB-0CD1-4FA5-8835-7AEF20158E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302D3AFB-0CD1-4FA5-8835-7AEF20158E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302D3AFB-0CD1-4FA5-8835-7AEF20158E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146B3519-FD81-446C-A87B-D89C85877C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146B3519-FD81-446C-A87B-D89C85877C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146B3519-FD81-446C-A87B-D89C85877C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146B3519-FD81-446C-A87B-D89C85877C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0E1159-0E23-45FC-89A1-6082E2F8C300}
+	EndGlobalSection
+EndGlobal
